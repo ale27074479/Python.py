@@ -1,0 +1,12 @@
+﻿Chernyshova_Python/
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# Virtual environment
+venv/
